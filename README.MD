@@ -60,6 +60,7 @@ This method is only tested with .dsk files, not with the Apple II releases.
 - Locate in the menu on the left the destination folder you want the files in.
 - One by one, drag the files in the disk image to the destination folder. When prompted for file type, select "Raw, data fork" for everything _except_ the file with the complete name. For that one you must choose "Macbinary 2", so that it is saved with the .bin extension.
 - Download the border files from the borders folder in this repo, and place them in the root of your game files.
+- Enjoy!
 
 ### NOTES:
 - For Dèjá Vu, you must rename all the game files to remove the tildes in them (`Dèjá Game` -> `Deja Game`) in order for ScummVM to recognize them.
